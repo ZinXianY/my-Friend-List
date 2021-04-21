@@ -1,0 +1,27 @@
+body {
+  background-color:snow;
+}
+
+.navbar-brand, .nav-link {
+  font-weight: bold;
+}
+
+.card {
+  border-color:snow;
+  background-color: snow;
+}
+
+.fa:hover {
+  cursor: pointer;
+  color: lightblue;
+}
+
+.list-group-item {
+  border-color:snow;
+  background-color: snow;
+  font-weight: bold;
+}
+
+.modal-header {
+  background-color: goldenrod;
+}
